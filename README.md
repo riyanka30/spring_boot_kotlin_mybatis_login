@@ -1,25 +1,27 @@
-# Spring Boot Kotlin Mybatis Login
+# Spring Boot Kotlin Mybatis login
 > 基于 Kotlin 语言和 Spring + Mybatis 编写的登录程序
 
-JSP 实现：[JSP Login](https://github.com/superchijinpeng/jsp_login)
+JSP 实现：[JSP login](https://github.com/superchijinpeng/jsp_login)
 
-SSH 实现：[SSH Login](https://github.com/superchijinpeng/ssh_login)
+SSH 实现：[SSH login](https://github.com/superchijinpeng/ssh_login)
 
-SSM 实现：[SSM Login](https://github.com/superchijinpeng/ssm_login)
+SSM 实现：[SSM login](https://github.com/superchijinpeng/ssm_login)
 
-Spring MVC 实现：[Spring MVC Login](https://github.com/superchijinpeng/spring_mvc_login)
+Struts 2 实现：[Struts 2 login](https://github.com/superchijinpeng/struts2_login)
 
-Kotlin + Web 实现：[Kotlin Web Login](https://github.com/superchijinpeng/kotlin_web_login)
+Spring MVC 实现：[Spring MVC login](https://github.com/superchijinpeng/spring_mvc_login)
 
-Kotlin + SSH 实现：[SSH Kotlin Login](https://github.com/superchijinpeng/ssh_kotlin_login)
+Kotlin + Web 实现：[Kotlin Web login](https://github.com/superchijinpeng/kotlin_web_login)
 
-Kotlin + SSM 实现：[SSM Kotlin Login](https://github.com/superchijinpeng/ssm_kotlin_login)
+Kotlin + SSH 实现：[SSH Kotlin login](https://github.com/superchijinpeng/ssh_kotlin_login)
 
-Kotlin + Struts 2 实现：[Struts 2 Kotlin Login](https://github.com/superchijinpeng/struts2_kotlin_login)
+Kotlin + SSM 实现：[SSM Kotlin login](https://github.com/superchijinpeng/ssm_kotlin_login)
 
-Kotlin + Spring MVC 实现：[Spring MVC Kotlin Login](https://github.com/superchijinpeng/spring_mvc_kotlin_login)
+Kotlin + Struts 2 实现：[Struts 2 Kotlin login](https://github.com/superchijinpeng/struts2_kotlin_login)
 
-Spring Boot + Mybatis 实现：[Spring Boot Mybatis Login](https://github.com/superchijinpeng/spring_boot_mybatis_login)
+Kotlin + Spring MVC 实现：[Spring MVC Kotlin login](https://github.com/superchijinpeng/spring_mvc_kotlin_login)
+
+Spring Boot + Mybatis 实现：[Spring Boot Mybatis login](https://github.com/superchijinpeng/spring_boot_mybatis_login)
 ### 版本
 Kotlin 1.1.4-3
 
